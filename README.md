@@ -32,7 +32,7 @@ Made by <b>Maverick Technologies</b></p>
 ## ⬇️ Download
 
 **[Download FitCheck.apk](../../releases/latest/download/FitCheck.apk)** from the Releases page (10.3 MB),
-or take [`FitCheck-v1.1.0.apk`](FitCheck-v1.1.0.apk) from this repository,
+or take [`FitCheck-v1.2.0.apk`](FitCheck-v1.2.0.apk) from this repository,
 or just use the **[web app](https://fitcheck-closet-app.vercel.app)** in any browser.
 
 ### Install on Android
