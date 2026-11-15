@@ -13,6 +13,13 @@ Made by <b>Maverick Technologies</b></p>
 
 ---
 
+## 🎬 Videos
+
+| | |
+|---|---|
+| 📱 **App demo** (1 min) | [Watch on the website](https://fitcheck-wardrobe.vercel.app/#videos) · [Download MP4](../../releases/download/v1.2.0/FitCheck-Demo.mp4) |
+| 🚀 **Pitch** (1 min) | [Watch on the website](https://fitcheck-wardrobe.vercel.app/#videos) · [Download MP4](../../releases/download/v1.2.0/FitCheck-Pitch.mp4) |
+
 ## What it does
 
 | | |
@@ -50,7 +57,9 @@ Needs Android 7.0 or newer.
 
 ## 🔒 Privacy
 
-No account. Your closet, wear counts and diary stay on your device. Photos are only sent to be analysed and are not stored on a server. You can save and restore a backup from Settings.
+No account. Your closet, wear counts and diary stay on your device. Photos are sent to the AI only to be read, never stored on our server, and you can switch **Cloud AI** off in Settings to keep every photo on your phone.
+
+📄 [Privacy Policy](https://fitcheck-wardrobe.vercel.app/privacy.html) · [Terms & Conditions](https://fitcheck-wardrobe.vercel.app/terms.html)
 
 ---
 
