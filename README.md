@@ -45,7 +45,7 @@ Needs Android 7.0 or newer.
 
 ## 🧠 The AI
 
-- **Online:** Claude Opus 5.5 vision reads closet photos and selfies, and plans outfits.
+- **Online:** Google Gemini (or Anthropic Claude) vision reads closet photos and selfies, and plans outfits.
 - **Offline / no server:** small models run right on the phone: SegFormer (clothes parsing) for selfies and CLIP for single items, plus a built-in rule-based stylist.
 
 ## 🔒 Privacy
